@@ -1,6 +1,6 @@
 说明：作用就是手机号脱敏之类的。
 
-github地址：
+github地址：https://github.com/Yong-Wang-Brave/tuomin.git
 
 地址：http://t.csdn.cn/eSBCF
 
